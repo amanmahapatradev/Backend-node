@@ -31,6 +31,6 @@ process object, path module , file system module, event loop, call back promise 
 
 worker threads, child process + some very advanced concepts will move to node js (pure node js advance module)
 
-
+## tsconfig.json -> tsconfig file node js search in any ai system e.g- chatgpt,gemini etc... copy the code and past in it 
 
 
